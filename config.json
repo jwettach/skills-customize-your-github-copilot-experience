@@ -65,6 +65,13 @@
       "description": "Learn how to build REST APIs with FastAPI and Pydantic",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-08-18"
+    },
+    {
+      "id": "pytest-testing",
+      "title": "pytest Testing",
+      "description": "Practice automated testing in Python with pytest.",
+      "path": "assignments/pytest-testing",
+      "dueDate": "2026-08-18"
     }
   ]
 }
