@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "FastAPI REST APIs",
+      "description": "Learn how to build REST APIs with FastAPI and Pydantic",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-08-18"
     }
   ]
 }
